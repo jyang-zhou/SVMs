@@ -1,7 +1,7 @@
 # SVMs
 SVMs via sub-gradient descent and quadratic programming with sentiment analysis on tweets on US airline service quality. 
 
-# Data Set
+# [Data Set](https://github.com/jyang-zhou/SVMs/tree/main/Data%20Set)
 
 - The data comes in the form of a csv table. The columns most relevant to our task are 'text' and 'airline_sentiment'.
 - Data must be represented as a [N x d] matrix, but what we have on our hands is unstructured text.
